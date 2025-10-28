@@ -1,0 +1,12 @@
+int Vraag1= 15%4+3;
+int Vraag2= 15%(4+3);
+int Vraag3= 10+5*8-3;
+int Vraag4= (10+5)*(8-3);
+int Vraag5= ((10+5)*2)-3;
+int Vraag6= 10+5*2-3;
+println (Vraag1);
+println (Vraag2);
+println (Vraag3);
+println (Vraag4);
+println (Vraag5);
+println (Vraag6);

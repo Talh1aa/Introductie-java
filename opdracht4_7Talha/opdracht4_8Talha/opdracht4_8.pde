@@ -1,0 +1,10 @@
+int sec =700000000;
+int min =sec/60;
+int hr =min/60;
+int day =hr/24;
+int yr =day/365;
+println(sec);
+println(min);
+println(hr);
+println(day);
+println(yr);
