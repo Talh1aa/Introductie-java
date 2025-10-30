@@ -1,0 +1,12 @@
+size(280, 180);
+background(220);
+stroke(90);
+strokeWeight(4);
+line(40, 20, 40, 160);
+noStroke();
+fill(180, 20, 40);
+rect(40, 20, 160, 35);
+fill(255);
+rect(40, 55, 160, 35);
+fill(35, 60, 130);
+rect(40, 90, 160, 35);
