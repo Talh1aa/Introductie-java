@@ -1,0 +1,11 @@
+size(300, 200);
+int x = 80;
+int y = 100;
+int d = 60;
+noFill();
+strokeWeight(4);
+ellipse(x, y, d, d);
+ellipse(x + 70, y, d, d);
+ellipse(x + 140, y, d, d);
+ellipse(x + 35, y + 35, d, d);
+ellipse(x + 105, y + 35, d, d);
