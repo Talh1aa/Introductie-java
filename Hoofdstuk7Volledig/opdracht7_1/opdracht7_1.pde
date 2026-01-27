@@ -1,0 +1,12 @@
+int temperatuur = -1;
+println(temperatuur > -100);
+int stilte = 15;
+println(10 < stilte);
+double lengte = 1.55;
+println(lengte <= 1.60);
+int broccoli = 4;
+println(broccoli >= 4);
+boolean isJarig = true;
+println(isJarig == true);
+String sneeuwKleur = "wit";
+println(sneeuwKleur !=("geel"));
